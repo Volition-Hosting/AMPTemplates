@@ -1,8 +1,8 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "ec23bd40-a9d9-4bf4-85c2-40c0cdf57267",
+	"authors": ["CubeCoders Limited", "AMP Community", "Volition Hosting"],
+	"origin": "https://github.com/Volition-Hosting/AMPTemplates.git",
+	"url": "https://github.com/Volition-Hosting/AMPTemplates",
 	"imagefile": "",
 	"prefix": "",
 	"repotype": "AppTemplates"
